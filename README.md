@@ -75,3 +75,9 @@ A simple RESTful API for managing tasks, built with Slim Framework 4 and Postgre
 - Stop containers: `docker-compose down`
 - Restart containers: `docker-compose restart`
 - start containers: `docker-compose up -d`
+
+
+## Get In Touch
+
+- **Email : baselkaffoura@gmail.com**
+- **Phone : +971503898795**
