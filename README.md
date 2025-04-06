@@ -76,3 +76,4 @@ A simple RESTful API for managing tasks, containerized with Docker.
 
 - **Email : baselkaffoura@gmail.com**
 - **Phone : +971503898795**
+- **<a href="https://www.linkedin.com/in/basel-kaffoura">Linkedin</a>**
