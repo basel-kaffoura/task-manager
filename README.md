@@ -1,6 +1,6 @@
 # Task Manager API
 
-A simple RESTful API for managing tasks, built with Slim Framework 4 and PostgreSQL, containerized with Docker.
+A simple RESTful API for managing tasks, containerized with Docker.
 
 ## Project Structure
 
@@ -22,11 +22,6 @@ A simple RESTful API for managing tasks, built with Slim Framework 4 and Postgre
 ├── Dockerfile            # PHP container definition
 └── init.sql              # Database initialization script
 ```
-
-## Prerequisites
-
-- Docker
-- Docker Compose
 
 ## Installation & Setup
 
